@@ -1,0 +1,12 @@
+D:\ОАИП\Гороскоп\Гороскоп\bin\Debug\Гороскоп.exe.config
+D:\ОАИП\Гороскоп\Гороскоп\bin\Debug\Гороскоп.exe
+D:\ОАИП\Гороскоп\Гороскоп\bin\Debug\Гороскоп.pdb
+D:\ОАИП\Гороскоп\Гороскоп\obj\Debug\Гороскоп.csproj.AssemblyReference.cache
+D:\ОАИП\Гороскоп\Гороскоп\obj\Debug\Гороскоп.Sign.resources
+D:\ОАИП\Гороскоп\Гороскоп\obj\Debug\Гороскоп.Properties.Resources.resources
+D:\ОАИП\Гороскоп\Гороскоп\obj\Debug\Гороскоп.csproj.GenerateResource.cache
+D:\ОАИП\Гороскоп\Гороскоп\obj\Debug\Гороскоп.csproj.CoreCompileInputs.cache
+D:\ОАИП\Гороскоп\Гороскоп\obj\Debug\Гороскоп.exe
+D:\ОАИП\Гороскоп\Гороскоп\obj\Debug\Гороскоп.pdb
+D:\ОАИП\Гороскоп\Гороскоп\obj\Debug\Гороскоп.dateSigns.resources
+D:\ОАИП\Гороскоп\Гороскоп\obj\Debug\Гороскоп.StarSigns.resources

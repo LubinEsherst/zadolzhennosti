@@ -1,0 +1,10 @@
+D:\ОАИП\Зп\Зп\bin\Debug\Зп.exe.config
+D:\ОАИП\Зп\Зп\bin\Debug\Зп.exe
+D:\ОАИП\Зп\Зп\bin\Debug\Зп.pdb
+D:\ОАИП\Зп\Зп\obj\Debug\Зп.csproj.AssemblyReference.cache
+D:\ОАИП\Зп\Зп\obj\Debug\Зп.Form1.resources
+D:\ОАИП\Зп\Зп\obj\Debug\Зп.Properties.Resources.resources
+D:\ОАИП\Зп\Зп\obj\Debug\Зп.csproj.GenerateResource.cache
+D:\ОАИП\Зп\Зп\obj\Debug\Зп.csproj.CoreCompileInputs.cache
+D:\ОАИП\Зп\Зп\obj\Debug\Зп.exe
+D:\ОАИП\Зп\Зп\obj\Debug\Зп.pdb
